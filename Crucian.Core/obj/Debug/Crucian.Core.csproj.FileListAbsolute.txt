@@ -1,0 +1,6 @@
+C:\Users\Anton\Documents\visual studio 2015\Projects\FileStorage\Crucian.Core\bin\Debug\Crucian.FileStorage.Core.pdb
+C:\Users\Anton\Documents\visual studio 2015\Projects\FileStorage\Crucian.Core\obj\Debug\Crucian.Core.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\visual studio 2015\Projects\FileStorage\Crucian.Core\obj\Debug\Crucian.FileStorage.Core.pdb
+C:\Users\Anton\Documents\visual studio 2015\Projects\FileStorage\Crucian.Core\bin\Debug\Crucian.FileStorage.Core.dll.config
+C:\Users\Anton\Documents\visual studio 2015\Projects\FileStorage\Crucian.Core\bin\Debug\Crucian.FileStorage.Core.dll
+C:\Users\Anton\Documents\visual studio 2015\Projects\FileStorage\Crucian.Core\obj\Debug\Crucian.FileStorage.Core.dll

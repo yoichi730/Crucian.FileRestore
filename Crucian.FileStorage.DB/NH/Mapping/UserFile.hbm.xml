@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                    namespace="Crucian.FileStorage.DB" 
+                     assembly="Crucian.FileStorage.DB">
+
+  <class name="UserFile" table="[UserFiles]">
+
+    <id name="Id">
+      <generator class="native" />
+    </id>
+    <property name="Autor"/>
+    <property name="CreateData"/>
+    <property name="FileName"/>
+    <property name="FilePath"/>
+
+  </class>
+
+</hibernate-mapping>

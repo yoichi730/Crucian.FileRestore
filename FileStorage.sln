@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crucian.FileStorage.CORE", "Crucian.Core\Crucian.FileStorage.CORE.csproj", "{B5FBCCB3-DBBA-45D0-886E-8E954C44D1EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crucian.FileStorage.DB", "Crucian.FileStorage.DB\Crucian.FileStorage.DB.csproj", "{DA7B7E11-C5B9-4875-866B-CA1AA7585191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crucian.FileStorage.WebApp", "Crucian.FileStorage.WebApp\Crucian.FileStorage.WebApp.csproj", "{D33953AE-C96A-4E9F-BC05-D707BAEF7C6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5FBCCB3-DBBA-45D0-886E-8E954C44D1EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5FBCCB3-DBBA-45D0-886E-8E954C44D1EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5FBCCB3-DBBA-45D0-886E-8E954C44D1EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5FBCCB3-DBBA-45D0-886E-8E954C44D1EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA7B7E11-C5B9-4875-866B-CA1AA7585191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7B7E11-C5B9-4875-866B-CA1AA7585191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7B7E11-C5B9-4875-866B-CA1AA7585191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7B7E11-C5B9-4875-866B-CA1AA7585191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D33953AE-C96A-4E9F-BC05-D707BAEF7C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33953AE-C96A-4E9F-BC05-D707BAEF7C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33953AE-C96A-4E9F-BC05-D707BAEF7C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33953AE-C96A-4E9F-BC05-D707BAEF7C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

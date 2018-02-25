@@ -1,0 +1,30 @@
+﻿
+
+@section styles
+{
+    <link href="~/Content/GridStyles.css" rel="stylesheet" />
+}
+
+<h2>@ViewBag.UserName</h2>
+
+
+@{ 
+
+    var grid = new WebGrid(source: Model, rowsPerPage:15);
+
+}
+
+
+@grid.GetHtml(tableStyle: "grid",
+              headerStyle: "header",
+              footerStyle: "footer",
+              alternatingRowStyle: "alt-row",
+              htmlAttributes: new { cellpadding = "8px", cellspacing = "0px" },
+
+              columns: grid.Columns(
+                        grid.Column(columnName:"FileName", header: "Имя файла"),
+                        grid.Column(columnName:"CreateData", header: "Дата создания")
+                        )
+    )
+
+

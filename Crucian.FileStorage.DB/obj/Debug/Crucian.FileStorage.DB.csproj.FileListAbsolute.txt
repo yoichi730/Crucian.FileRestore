@@ -1,0 +1,14 @@
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\FileStorage\Crucian.FileStorage.DB\bin\Debug\Crucian.FileStorage.DB.exe.config
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\FileStorage\Crucian.FileStorage.DB\bin\Debug\Crucian.FileStorage.DB.exe
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\FileStorage\Crucian.FileStorage.DB\bin\Debug\Crucian.FileStorage.DB.pdb
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\FileStorage\Crucian.FileStorage.DB\obj\Debug\Crucian.FileStorage.DB.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\FileStorage\Crucian.FileStorage.DB\obj\Debug\Crucian.FileStorage.DB.exe
+C:\Users\Anton\Documents\Visual Studio 2015\Projects\FileStorage\Crucian.FileStorage.DB\obj\Debug\Crucian.FileStorage.DB.pdb
+C:\Users\Anton\documents\visual studio 2015\Projects\FileStorage\Crucian.FileStorage.DB\bin\Debug\App_Data\FileStorageDB.mdf
+C:\Users\Anton\documents\visual studio 2015\Projects\FileStorage\Crucian.FileStorage.DB\bin\Debug\App_Data\FileStorageDB_log.ldf
+C:\Users\Anton\documents\visual studio 2015\Projects\FileStorage\Crucian.FileStorage.DB\bin\Debug\Iesi.Collections.dll
+C:\Users\Anton\documents\visual studio 2015\Projects\FileStorage\Crucian.FileStorage.DB\bin\Debug\NHibernate.dll
+C:\Users\Anton\documents\visual studio 2015\Projects\FileStorage\Crucian.FileStorage.DB\bin\Debug\Iesi.Collections.xml
+C:\Users\Anton\documents\visual studio 2015\Projects\FileStorage\Crucian.FileStorage.DB\bin\Debug\NHibernate.xml
+C:\Users\Anton\documents\visual studio 2015\Projects\FileStorage\Crucian.FileStorage.DB\bin\Debug\Crucian.FileStorage.Core.dll
+C:\Users\Anton\documents\visual studio 2015\Projects\FileStorage\Crucian.FileStorage.DB\bin\Debug\Crucian.FileStorage.Core.pdb
